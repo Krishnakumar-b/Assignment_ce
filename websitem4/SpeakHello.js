@@ -1,5 +1,5 @@
 (function(window){
-var helloSpeaker=new Object();
+var helloSpeaker={};
 var speakWord = "Hello";
 
 
